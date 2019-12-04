@@ -1,2 +1,29 @@
-# Gestor Celular M12
-Sistema para gestão celular de igrejas que trabalham com a Visão Celular no Modelo dos 12
+# gestorcelularm12
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
