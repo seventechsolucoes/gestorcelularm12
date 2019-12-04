@@ -1,12 +1,10 @@
-.DS_Store
-.vscode
+#codeigniter 3
+application/logs/*
+!application/logs/index.html
+!application/logs/.htaccess
+/vendor/
 node_modules
-/dist
-
-# local env files
-.env.local
-.env.*.local
-
+=======
 # Log files
 npm-debug.log*
 yarn-debug.log*
